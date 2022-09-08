@@ -1,0 +1,14 @@
+HOMEWORK:JAVASCRIPT II
+
+for: Es similiar al if, solo que el for es repetitivo y el if no, 
+a esto se le llamaría un Bucle (una secuencia de instrucciones que se ejecuta repetidas veces).
+En ella abrirmos y cerramos pararentesis(), y luego seguimos con la variable.
+
+&&: Este simbolo es el operador "Y"("AND") con siglas en Ingles, esto evaluará ambas
+expresiones y devolverá verdadero si ambas son TRUE. Si uno o ambos de ellos es falso, el operador
+devolverá FALSE.
+
+||: Este es el operador "O" ("OR"). Determina si una expresion es TRUE, devolverá TRUE si
+una o ambas expresiones es TRUE. 
+
+!: Es el operador "NO"("NOT")
